@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RA2112701010026/React-AeroAura-A--weather-suggest.git/static/css/main.05b29d70.css",
+    "main.js": "/RA2112701010026/React-AeroAura-A--weather-suggest.git/static/js/main.8418b67a.js",
+    "static/js/787.d9312eb8.chunk.js": "/RA2112701010026/React-AeroAura-A--weather-suggest.git/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/RA2112701010026/React-AeroAura-A--weather-suggest.git/index.html",
+    "main.05b29d70.css.map": "/RA2112701010026/React-AeroAura-A--weather-suggest.git/static/css/main.05b29d70.css.map",
+    "main.8418b67a.js.map": "/RA2112701010026/React-AeroAura-A--weather-suggest.git/static/js/main.8418b67a.js.map",
+    "787.d9312eb8.chunk.js.map": "/RA2112701010026/React-AeroAura-A--weather-suggest.git/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05b29d70.css",
+    "static/js/main.8418b67a.js"
+  ]
+}
